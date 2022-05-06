@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Televisor",
+		"price": 150000,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_945454-MLA49577095632_042022-O.webp",
+		"id": 1
+	},
+	{
+		"title": "Telefono",
+		"price": 15000,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_896790-MLA44547132275_012021-O.webp",
+		"id": 2
+	},
+	{
+		"title": "Tenedor",
+		"price": 100,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_765770-MLA41341839133_042020-O.webp",
+		"id": 3
+	}
+]
