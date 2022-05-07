@@ -7,7 +7,6 @@ class contenedor {
         this.file = file;
         this.products = [];
         this.id = 0;
-
     };
 
     async save (product) {
